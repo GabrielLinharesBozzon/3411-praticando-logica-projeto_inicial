@@ -46,8 +46,8 @@ Este repositório contém as microatividades e o trabalho prático da disciplina
 
 ## Autor
 
-[Seu Nome]
+Gabriel Linhares Bozzon
 
 ## Data
 
-[Data de Entrega] 
+19/03/2024 
